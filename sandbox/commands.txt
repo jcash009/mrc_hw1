@@ -1,0 +1,11 @@
+cd ~/me4823
+mkdir sandbox
+cd ~/me4823/sandbox
+mkdir dir1
+mkdir dir2
+gedit commands.txt
+cd ~/me4823/sandbox/dir1
+gedit file1.txt
+cd ~/me4823/sandbox/dir2
+gedit file2.txt
+

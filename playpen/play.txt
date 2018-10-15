@@ -1,0 +1,7 @@
+cd ~/me4823
+cp -R sandbox playpen
+cd ~/me4823/playpen
+mv dir1 folder1
+mv dir2 folder2
+mv commands.txt play.txt
+
